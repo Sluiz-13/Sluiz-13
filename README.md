@@ -5,7 +5,7 @@
 -🌐 Apaixonado por desenvolvimento web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sluiz-13&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
