@@ -1,8 +1,8 @@
 ## Olá, eu sou o Luiz Felippe
 
-🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas 
-🌱 Atualmente estou aprendendo linguagens como: C, PYTHON, HTML, CSS, JS
-🌐 Apaixonado por desenvolvimento web
+-🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas 
+-🌱 Atualmente estou aprendendo linguagens como: C, PYTHON, HTML, CSS, JS
+-🌐 Apaixonado por desenvolvimento web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sluiz-13&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact)
