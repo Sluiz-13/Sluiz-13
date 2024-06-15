@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luiz Felippe
 
 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas <br>
-🌱 Atualmente estou aprendendo linguagens como: C, PYTHON, HTML, CSS, JS<br>
+🌱 Atualmente estou aprendendo linguagens como: Python, Node JS e JavaScript <br>
 🌐 Apaixonado por desenvolvimento web
 
 
