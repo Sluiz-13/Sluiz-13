@@ -4,7 +4,7 @@
 🌱 Atualmente estou aprendendo linguagens como: C, PYTHON, HTML, CSS, JS<br>
 🌐 Apaixonado por desenvolvimento web
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sluiz-13&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=transparent)
 
 <div style="display: inline_block"><br>
