@@ -5,7 +5,7 @@
 🌐 Apaixonado por desenvolvimento web
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Algumas das tecnologias com as quais tenho experiência:
 
