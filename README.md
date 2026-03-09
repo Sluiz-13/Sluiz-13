@@ -5,7 +5,7 @@
 🌐 Apaixonado por desenvolvimento web
 
 
-[![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=Sluiz-13&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ## 🛠️ Algumas das tecnologias com as quais tenho experiência:
 
