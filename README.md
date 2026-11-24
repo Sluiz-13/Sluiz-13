@@ -24,7 +24,8 @@ Sistema completo para restaurantes, do pedido ao balcão:
 - Impressão automática de pedidos
 - PDV e gestão do dia a dia
 
-🔗 [Conheça o MenuAir]  (<a href="https://menuair.com.br">)
+🔗 [Conheça o MenuAir] 
+(<a href="https://menuair.com.br">)
 
 ---
 
