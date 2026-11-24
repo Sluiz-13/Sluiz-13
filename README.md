@@ -24,8 +24,7 @@ Sistema completo para restaurantes, do pedido ao balcão:
 - Impressão automática de pedidos
 - PDV e gestão do dia a dia
 
-🔗 [Conheça o MenuAir] 
-(<a href="https://menuair.com.br"> menuair)
+🔗 [Conheça o MenuAir](https://seu-dominio-do-menuair.com.br)
 
 ---
 
@@ -42,9 +41,9 @@ Sistema completo para restaurantes, do pedido ao balcão:
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sluiz-13&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sluiz-13&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Sluiz-13&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
