@@ -25,7 +25,7 @@ Sistema completo para restaurantes, do pedido ao balcão:
 - PDV e gestão do dia a dia
 
 🔗 [Conheça o MenuAir] 
-(<a href="https://menuair.com.br">)
+(menuaur <a href="https://menuair.com.br">)
 
 ---
 
